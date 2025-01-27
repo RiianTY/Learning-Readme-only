@@ -16,3 +16,11 @@
 // changing font sizes to rem
 // text line height 
 // how do you decide which unit to use
+
+# 25/jan/2025
+// Aside: media queries
+// Add media queries to your site
+// Think "Mobile-first"
+// Mobile first in action
+// common Breakpoints
+// Add a new breakpoint
