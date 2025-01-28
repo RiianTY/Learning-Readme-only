@@ -24,3 +24,9 @@
 // Mobile first in action
 // common Breakpoints
 // Add a new breakpoint
+
+# 27/jan/2025
+// Adapt the buttons for smaller screens
+// Adjust font size for smaller screens
+// Create a mobile-first navigatior
+// Challenge: Narrow screens
