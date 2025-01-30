@@ -30,3 +30,19 @@
 // Adjust font size for smaller screens
 // Create a mobile-first navigatior
 // Challenge: Narrow screens
+
+# 28/jan/2025
+// challenge wider screens 
+// the viewport meta tag
+// Aside: create a flexbox image grid
+// wrap the featured items with flexbox
+
+# 29/jan/2025
+// Why code reviews matter
+// the most common type of code review
+// what to look for in a code review
+// your first textual code review
+// Whats is an api
+// APIs module intro
+// clients & servers
+// requests & responses
