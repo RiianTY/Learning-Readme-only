@@ -46,3 +46,37 @@
 // APIs module intro
 // clients & servers
 // requests & responses
+
+# 30/jan/2025
+// First fetch
+// .then() and Async JS
+// Dog API fetch and DOM practice
+
+# 10/feb/2025
+// Fetch idea from bored API
+
+# 19/feb/2025
+// BoredBot - HTML
+// BoredBot - CSS
+// BoredBot - API 
+// BoredBot - Extra Styling
+// BoredBot - Improve A11Y
+// Section Recap
+
+# 22/feb/2025
+// HTTP Requests
+
+# 24/feb/2025
+// ${data} vs data console log
+// Requests - URLs and Endpoints
+// Requests - Methods
+// BlogSpace - GET first 5 blog posts
+
+# 25/feb/2025
+// BlogSpace - Display blogs on page
+// BlogSpace - Add styling
+// BlogSpace - New post form
+// BlogSpace - Add style to form
+// BlogSpace - From submit event listener
+// Requests - Body
+// Requests - Headers
