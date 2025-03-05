@@ -81,3 +81,32 @@
 5. BlogSpace - From submit event listener
 6. Requests - Body
 7. Requests - Headers
+
+# 26/feb/2025
+1. BlogSpace - Send new post to server
+2. BlogSpace - Add new post to the list of post
+3. BlogSpace - Post Refactor
+4. BlogSpace - Reset form
+
+# 27/feb/2025
+1. REST
+2. REST API Design
+
+# 03/mar/2025
+1. Nested Resources
+2. URL Parameters - JSON Placeholder API
+3. Query String
+4. Query Sting Practice - OpenWeatherMap API
+5. Solo Project - Color Scheme Generator
+
+# 04/mar/2025
+1. Section Recap
+
+# 05/mar/2025
+1. Async JS Intro & War Project
+2. Callbacks Setup Challenge
+3. Callback functions intro
+4. Separate event listener callback
+5. Callbacks - revisiting setTimeout
+6. Callbacks - revisiting array.filter
+7. Callbacks - make own filterArray function
