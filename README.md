@@ -110,3 +110,12 @@
 5. Callbacks - revisiting setTimeout
 6. Callbacks - revisiting array.filter
 7. Callbacks - make own filterArray function
+
+# 06/mar/2025
+1. Callback - Put out custom filterArray function to use
+2. Thought experiment: what if "fetch" used callbacks?
+3. Promises
+4. Context: method chaining
+5. Promises - .then() chaining
+6. Promises - .then()
+7. Promises - padding basic values in the chain
