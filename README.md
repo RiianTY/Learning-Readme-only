@@ -119,3 +119,20 @@
 5. Promises - .then() chaining
 6. Promises - .then()
 7. Promises - padding basic values in the chain
+
+# 11/mar/2025 
+1. War - save deckId for later use
+2. War - draw 2 cards from out deck
+3. War - Display or card images
+4. War - Styling part 1
+5. War Styling part 2
+6. War - Refactor card image placement
+7. War - Determine the winning card part 1
+8. War - Determine the winning card part 2
+9. War - Display remaining cards when drawing
+10. War - Display remaining cards on new deck
+11. War - Disable the draw button when we get 0 cards remaining
+12. War - Keep score
+13. War - Display the final winner
+14. Async / await
+15. Solo Project - Movie Watchlist
